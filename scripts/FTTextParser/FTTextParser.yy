@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"FTTextParser",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"FTTextParser",
+  "parent":{
+    "name":"FamiTextParse",
+    "path":"FamiTextParse.yyp",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

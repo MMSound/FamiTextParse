@@ -1,0 +1,7 @@
+{
+  "FolderOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"objTest","order":1,"path":"objects/objTest/objTest.yy",},
+    {"name":"FTTextParser","order":2,"path":"scripts/FTTextParser/FTTextParser.yy",},
+  ],
+}
