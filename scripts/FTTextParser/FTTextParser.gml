@@ -211,7 +211,7 @@ function ft_text_parse(_name)
 										_currentStruct.instrument[_currentIndex] =
 										{
 											chip: string_copy(_lineArr[0], 5, string_length(_lineArr[0])),
-											name: _lineArrCased[1],
+											name: (array_length(_lineArrCased) > 1 ? _lineArrCased[1] : ""),
 											macros:
 											{
 												volume: _lineArr[2],

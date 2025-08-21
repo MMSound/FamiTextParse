@@ -12,11 +12,7 @@
   "Folders":[],
   "ForcedPrefabProjectReferences":[],
   "IncludedFiles":[
-    {"$GMIncludedFile":"","%Name":"dtest.txt","CopyToMask":-1,"filePath":"datafiles","name":"dtest.txt","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
-    {"$GMIncludedFile":"","%Name":"gtest.txt","CopyToMask":-1,"filePath":"datafiles","name":"gtest.txt","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
     {"$GMIncludedFile":"","%Name":"hnk.txt","CopyToMask":-1,"filePath":"datafiles","name":"hnk.txt","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
-    {"$GMIncludedFile":"","%Name":"ingarasen.txt","CopyToMask":-1,"filePath":"datafiles","name":"ingarasen.txt","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
-    {"$GMIncludedFile":"","%Name":"rtest.txt","CopyToMask":-1,"filePath":"datafiles","name":"rtest.txt","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
     {"$GMIncludedFile":"","%Name":"swordmaster.txt","CopyToMask":-1,"filePath":"datafiles","name":"swordmaster.txt","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
     {"$GMIncludedFile":"","%Name":"troia.txt","CopyToMask":-1,"filePath":"datafiles","name":"troia.txt","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
   ],

@@ -4,4 +4,4 @@ Everything important is in the "FTTextParse" script; the rest of the project is 
 
 Included in the datafiles folder are three example .txt files: recreations of the soundtracks of Hokuto no Ken (1987, FC), Sword Master (FC, 1990), and covers of "Troia Base - Passage" and "Troia Base - Forwarding" from Mega Man X8 (PS2, 2004).
 
-Not currently tested with expansion chips, though it should work properly.
+Currently, it only works with 2A03 instruments.
